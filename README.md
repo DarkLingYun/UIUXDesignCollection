@@ -52,9 +52,11 @@ Storybook 是一个用于独立构建 UI 组件和页面的开源工具。
 
 ## [ALIBABA CLOUD DESIGN](https://design.aliyun.com/)
 
-## [AndDesign](https://ant.design/index-cn)
+## [AntDesign](https://ant.design/index-cn)
 
 企业级产品设计体系，创造高效愉悦的工作体验
+
+### [AntDesign of Vue ](https://antdv.com/docs/vue/introduce-cn)
 
 ## [Xconsole](http://xconsole.cloud/)
 
@@ -75,10 +77,6 @@ Storybook 是一个用于独立构建 UI 组件和页面的开源工具。
 ant 是一个**轻量、可靠的移动端组件库**，于 2017 年开源。
 
 目前 Vant 官方提供了 [Vue 2 版本](https://vant-contrib.gitee.io/vant/v2)、[Vue 3 版本](https://vant-contrib.gitee.io/vant)和[微信小程序版本](http://vant-contrib.gitee.io/vant-weapp)，并由社区团队维护 [React 版本](https://github.com/3lang3/react-vant)和[支付宝小程序版本](https://github.com/ant-move/Vant-Aliapp)。
-
-## [Ant Design of Vue ](https://antdv.com/docs/vue/introduce-cn)
-
-## [Ant Design](https://ant.design/index-cn)
 
 ## [View Design](https://www.iviewui.com/)
 
